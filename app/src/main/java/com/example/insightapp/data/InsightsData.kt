@@ -2,6 +2,10 @@ package com.example.insightapp.data
 
 
 import androidx.compose.ui.graphics.Color
+import com.example.insightapp.ui.theme.DonutAcne
+import com.example.insightapp.ui.theme.DonutBloating
+import com.example.insightapp.ui.theme.DonutFatigue
+import com.example.insightapp.ui.theme.DonutMood
 
 // ── Data Models ──
 
